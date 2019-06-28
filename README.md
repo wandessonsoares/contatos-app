@@ -1,4 +1,4 @@
-# hello-world
+# Contatos App
 
 ## Project setup
 ```
